@@ -1,0 +1,11 @@
+C:\Users\Mateus\source\repos\BibliotecaDeDesconto\BibliotecaDeDesconto\bin\Debug\net8.0\BibliotecaDeDesconto.deps.json
+C:\Users\Mateus\source\repos\BibliotecaDeDesconto\BibliotecaDeDesconto\bin\Debug\net8.0\BibliotecaDeDesconto.dll
+C:\Users\Mateus\source\repos\BibliotecaDeDesconto\BibliotecaDeDesconto\bin\Debug\net8.0\BibliotecaDeDesconto.pdb
+C:\Users\Mateus\source\repos\BibliotecaDeDesconto\BibliotecaDeDesconto\obj\Debug\net8.0\BibliotecaDeDesconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\source\repos\BibliotecaDeDesconto\BibliotecaDeDesconto\obj\Debug\net8.0\BibliotecaDeDesconto.AssemblyInfoInputs.cache
+C:\Users\Mateus\source\repos\BibliotecaDeDesconto\BibliotecaDeDesconto\obj\Debug\net8.0\BibliotecaDeDesconto.AssemblyInfo.cs
+C:\Users\Mateus\source\repos\BibliotecaDeDesconto\BibliotecaDeDesconto\obj\Debug\net8.0\BibliotecaDeDesconto.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\source\repos\BibliotecaDeDesconto\BibliotecaDeDesconto\obj\Debug\net8.0\BibliotecaDeDesconto.dll
+C:\Users\Mateus\source\repos\BibliotecaDeDesconto\BibliotecaDeDesconto\obj\Debug\net8.0\refint\BibliotecaDeDesconto.dll
+C:\Users\Mateus\source\repos\BibliotecaDeDesconto\BibliotecaDeDesconto\obj\Debug\net8.0\BibliotecaDeDesconto.pdb
+C:\Users\Mateus\source\repos\BibliotecaDeDesconto\BibliotecaDeDesconto\obj\Debug\net8.0\ref\BibliotecaDeDesconto.dll
