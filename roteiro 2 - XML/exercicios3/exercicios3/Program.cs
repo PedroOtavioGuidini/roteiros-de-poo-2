@@ -5,8 +5,7 @@ class Program
 {
     static void Main()
     {
-        string caminho = @"C:\Users\Mateus\source\repos\exercicios3\estoque.xml";
-
+        string caminho = @"C:\Users\Usuario\Desktop\roteiro 2 - XML\exercicios3\estoque.xml";
 
         XDocument doc = XDocument.Load(caminho);
 
